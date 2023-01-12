@@ -8,7 +8,6 @@
   background-color: rgb(54, 53, 53);
   color: white;
   padding: 4% 3%;
-  text-align: right;
 }
 
 button {
@@ -25,7 +24,7 @@ button {
 }
 
 .orange {
-  background-color: rgb(236, 63, 0);
+  background-color: orangered;
 }
 
 .gray {
