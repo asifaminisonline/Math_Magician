@@ -122,11 +122,26 @@ Github Pages.
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Asif Amin**
 
-👤 **Author1**
+- GitHub: [Asif Amin](https://github.com/asifaminisonline)
+- Twitter: [Asif Amin](https://twitter.com/AminAmi53306702)
+- LinkedIn: [Asif Amin](https://linkedin.com/in/asif-amin-723680251)
 
-- GitHub: [@asifaminisonline](https://github.com/asifaminisonline)
+👤 **Mudasir Sherwani**
+
+- GitHub: [Mudasir Sherwani](https://github.com/MudasirSherwani)
+- Twitter: [Mudasir Sherwani](https://twitter.com/mudasirsherwani)
+- LinkedIn: [Mudasir Sherwani](https://linkedin.com/in/mudasir-ashraf-071321a4)
+
+👤 **IRADUKUNDA Pacific Rugwizangoga**
+
+- GitHub: [IRADUKUNDA Pacific Rugwizangoga](https://github.com/rugwizangoga)
+- Twitter: [IRADUKUNDA Pacific Rugwizangoga](https://twitter.com/IRugwizangoga)
+- LinkedIn: [IRADUKUNDA PACIFIC RUGWIZANGOGA](https://linkedin.com/in/iradukunda-pacific-rugwizangoga)
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,5 +203,6 @@ I would like to give credit to the following people who have inspired my codebas
 
 ## 📝 License <a name="license"></a>
 
+This project is [MIT](https://github.com/asifaminisonline/Math_Magician/blob/tests/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
